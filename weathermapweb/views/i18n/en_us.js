@@ -1,6 +1,6 @@
 var globalLanguageEn = {
 	"weatherDemo": "Weather forecast CSE-Demo-2.0",
-	"cityWeather": "City Weather DEMO for Coppel",
+	"cityWeather": "City Weather",
 	"search": "Search",
 	"weatherDetails": "Current Weather Details And Forecast For The Next 5 Days",
 	"yourCity": "Your city name (all fight)",
